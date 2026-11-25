@@ -32,7 +32,7 @@ I’m an AI and automation enthusiast who loves turning messy data and repetitiv
 - **Currently learning:** MLOps & deployment · Deep learning · RAG & vector databases · Cloud (AWS / GCP / Azure)
 - **Ask me about:** Python, LLM apps, automation with n8n, and data science
 - **Open to:** open-source contributions and collaborations
-- **Based in:** YOUR_COUNTRY
+- **Based in:** Morocco
 - **Languages:** English, French, Arabic
 
 ---
