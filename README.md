@@ -150,7 +150,7 @@ Got an open-source idea or an issue where you need a hand? [Open an issue](https
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-14532d?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-14532d?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oussama-taghrat-6a2b1b230)
 [![Email](https://img.shields.io/badge/Email-22c55e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
