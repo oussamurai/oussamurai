@@ -17,8 +17,8 @@
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=14532d&style=flat-square)
-[![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=22c55e&labelColor=0b1f14)](https://github.com/YOUR_USERNAME?tab=followers)
+![Profile views](https://komarev.com/ghpvc/?username=oussamurai&label=Profile%20views&color=14532d&style=flat-square)
+[![Followers](https://img.shields.io/github/followers/oussamurai?label=Followers&style=flat-square&color=22c55e&labelColor=0b1f14)](https://github.com/YOUR_USERNAME?tab=followers)
 
 </div>
 
@@ -72,7 +72,7 @@ I’m an AI and automation enthusiast who loves turning messy data and repetitiv
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
+<a href="https://github.com/oussamurai/PROJECT_ONE">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&bg_color=0d1117&title_color=22c55e&text_color=ffffff&icon_color=22c55e&border_color=14532d" alt="Project one" />
 </a>
 <a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
@@ -101,7 +101,7 @@ I’d love to work with you on:
 - Data science and ML projects
 - Docs, tutorials and beginner-friendly examples
 
-Got an open-source idea or an issue where you need a hand? [Open an issue](https://github.com/YOUR_USERNAME) or reach out below.
+Got an open-source idea or an issue where you need a hand? [Open an issue](https://github.com/oussamurai) or reach out below.
 
 ---
 
@@ -114,7 +114,7 @@ Got an open-source idea or an issue where you need a hand? [Open an issue](https
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=22c55e&sideLabels=ffffff&dates=9ca3af" alt="Streak stats" />
+<img src="https://streak-stats.demolab.com?user=oussamurai&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=22c55e&sideLabels=ffffff&dates=9ca3af" alt="Streak stats" />
 
 </div>
 
